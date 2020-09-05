@@ -128,3 +128,5 @@ $rules = [
     ],
     'whitespace_after_comma_in_array' => true,
 ];
+
+return $rules;
