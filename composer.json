@@ -16,11 +16,5 @@
     "files": [
       "./src/helpers.php"
     ]
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/kartikkapatel/php-style"
-    }
-  ]
+  }  
 }
