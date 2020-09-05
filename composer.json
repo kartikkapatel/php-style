@@ -1,0 +1,28 @@
+{
+  "name": "kartikkapatel/php-style",
+  "description": "Kartik's shared PHP style rules for PHP-CS-Fixer",
+  "license": "MIT",
+  "homepage": "https://github.com/kartikkapatel/php-style",
+  "authors": [
+    {
+      "name": "Kartik Kapatel",
+      "email": "kartik_kapatel@ymail.com"
+    }
+  ],
+  "require": {
+    "friendsofphp/php-cs-fixer": "^2.0"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/kartikkapatel/php-style"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
